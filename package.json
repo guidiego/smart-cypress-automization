@@ -1,0 +1,11 @@
+{
+  "name": "smartfit-schedule",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:guidiego/smartfit-schedule.git",
+  "author": "Guilherme Diego <guilherme.albino.francisco@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
